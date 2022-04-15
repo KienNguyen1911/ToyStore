@@ -21,7 +21,7 @@
   <body>
     
     <div class="container-fluid" style="padding: 0px; height:100vh">
-        <div class="main_slider" style="background-image:url(../img/slide.jpg) ">
+        <div class="main_slider" style="background-image:url(../img/slide.jpg); background-image: url(<%= @user.background_image.expiring_url %>) ">
             <div class="row content_slider" >
               {{-- <div class="col"> --}}
                 <h4 style="text-align: center" class="text" >Summer 2022</h4>
