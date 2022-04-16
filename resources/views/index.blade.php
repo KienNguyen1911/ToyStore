@@ -137,7 +137,7 @@
               <div class="row">
 
                   <div class="col-md-7" style="margin: auto">
-                    <h3 class=" text-center" style="color: #8CB1F3">What do you think about our website?</h3>
+                    <h3 class=" text-center" style="color: #8CB1F3">We want your feedback!!!</h3>
                     <p class="text-center" >Your feedback is very important with 
                       <span style="font-weight: 500">Spaceship</span>
                     </p>
