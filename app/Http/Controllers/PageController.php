@@ -14,7 +14,7 @@ class PageController extends Controller
         $products = Product::all();
         return view('index', ['products' => $products], ['user' => $user]);
     }
-
+// a 
     public function getDashboard()
     {
         return view('admin.dashboard');
